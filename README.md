@@ -8,4 +8,4 @@
 
 Пример:
 
-![](/home/avenon/Projects/spring_keytool/img/screen_01.png)
+![](./img/screen_01.png)
